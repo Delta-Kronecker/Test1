@@ -59,763 +59,798 @@ dns:
     - tls://94.140.14.14:853
 
 proxies:
-  - name: "@DeltaKroneckerGithub_Clash_1033"
-    type: ss
-    server: "185.117.88.9"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1034"
-    type: ss
-    server: "82.38.31.164"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1035"
-    type: ss
-    server: "82.38.31.35"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1036"
-    type: ss
-    server: "158.173.20.208"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1037"
-    type: ss
-    server: "141.98.101.179"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1038"
-    type: ss
-    server: "108.181.126.122"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "CJmTCCx7Ltud"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1039"
-    type: ss
-    server: "185.156.173.206"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1040"
-    type: ss
-    server: "51.159.19.174"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1041"
-    type: ss
-    server: "185.156.174.106"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1042"
-    type: ss
-    server: "158.173.24.73"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1043"
-    type: ss
-    server: "146.70.222.126"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1044"
-    type: ss
-    server: "84.247.48.78"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1045"
-    type: ss
-    server: "31.76.80.205"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "UZQY9hNjVNWwamajrXAf1vt8u63nj0fF"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1046"
-    type: ss
-    server: "82.38.31.182"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1047"
-    type: ss
-    server: "109.104.154.163"
-    port: 2375
-    cipher: "aes-256-gcm"
-    password: "faBAoD54k87UJG7"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1048"
-    type: ss
-    server: "82.38.31.207"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1049"
-    type: ss
-    server: "82.38.31.9"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1050"
-    type: ss
-    server: "82.38.31.57"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1051"
-    type: ss
-    server: "146.70.146.222"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1052"
-    type: ss
-    server: "82.38.31.13"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1053"
-    type: ss
-    server: "82.38.31.208"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1054"
-    type: ss
-    server: "82.38.31.183"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1055"
-    type: ss
-    server: "82.38.31.206"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1056"
-    type: ss
-    server: "193.29.139.151"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1057"
-    type: ss
-    server: "57.129.121.230"
-    port: 10443
-    cipher: "chacha20-ietf-poly1305"
-    password: "uROuEqsL8IUMMVb4wDwnGU"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1058"
-    type: ss
-    server: "82.38.31.35"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1059"
-    type: ss
-    server: "82.38.31.214"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
   - name: "@DeltaKroneckerGithub_Clash_1060"
-    type: ss
-    server: "141.98.101.181"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1061"
-    type: ss
-    server: "82.38.31.180"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1062"
-    type: ss
-    server: "185.128.25.44"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1063"
-    type: ss
-    server: "158.173.20.171"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1064"
-    type: ss
-    server: "82.38.31.200"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1065"
-    type: ss
-    server: "82.38.31.212"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1066"
-    type: ss
-    server: "185.213.20.110"
-    port: 7001
-    cipher: "aes-256-gcm"
-    password: "RexnBgU7EV5ADxG"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1067"
-    type: ss
-    server: "185.198.235.208"
-    port: 20129
-    cipher: "aes-256-gcm"
-    password: "6512030961473f21"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1068"
-    type: ss
-    server: "82.38.31.48"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1069"
-    type: ss
-    server: "82.38.31.47"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1070"
-    type: ss
-    server: "188.119.149.27"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1071"
-    type: ss
-    server: "82.38.31.211"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1072"
-    type: ss
-    server: "82.38.31.198"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1073"
-    type: ss
-    server: "82.38.31.194"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1074"
-    type: ss
-    server: "82.38.31.46"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1075"
-    type: ss
-    server: "82.38.31.26"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1076"
-    type: ss
-    server: "195.133.23.27"
-    port: 20111
-    cipher: "aes-256-gcm"
-    password: "1a87017d0bf57f34"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1077"
-    type: ss
-    server: "185.213.23.63"
-    port: 990
-    cipher: "chacha20-ietf-poly1305"
-    password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1078"
-    type: ss
-    server: "46.17.40.13"
-    port: 20111
-    cipher: "aes-256-gcm"
-    password: "b24a80e79cee1d1f"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1079"
-    type: ss
-    server: "82.38.31.217"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1080"
-    type: ss
-    server: "82.38.31.16"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1081"
-    type: ss
-    server: "185.128.27.178"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1082"
-    type: ss
-    server: "82.38.31.190"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1083"
-    type: ss
-    server: "141.98.101.182"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1084"
-    type: ss
-    server: "82.38.31.10"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1085"
-    type: ss
-    server: "209.46.102.22"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "1hhrqrokj3ag"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1086"
-    type: ss
-    server: "193.29.139.204"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1087"
-    type: ss
-    server: "82.38.31.18"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1088"
-    type: ss
-    server: "94.156.250.148"
-    port: 7001
-    cipher: "aes-256-gcm"
-    password: "RexnBgU7EV5ADxG"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1089"
-    type: ss
-    server: "195.154.29.29"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1090"
-    type: ss
-    server: "switcher-nick-croquet.freesocks.work"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "9tqhMdIrTkgQ46PvhyAtMH"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1091"
-    type: ss
-    server: "137.74.119.18"
-    port: 10443
-    cipher: "chacha20-ietf-poly1305"
-    password: "diOMBU5IDvJcFqyNPbRjYR"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1092"
-    type: ss
-    server: "82.38.31.216"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1093"
-    type: ss
-    server: "82.38.31.39"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1094"
-    type: ss
-    server: "217.138.207.106"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1095"
-    type: ss
-    server: "141.98.101.178"
-    port: 443
-    cipher: "aes-128-gcm"
-    password: "shadowsocks"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1096"
-    type: ss
-    server: "195.242.213.238"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1097"
-    type: ss
-    server: "213.109.147.242"
-    port: 62685
-    cipher: "chacha20-ietf-poly1305"
-    password: "VpKABcOpNNA0l5G2AVOmw8"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1098"
-    type: ss
-    server: "82.38.31.3"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1099"
-    type: ss
-    server: "82.38.31.7"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1100"
-    type: ss
-    server: "194.187.251.2"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1101"
-    type: ss
-    server: "178.128.195.253"
-    port: 10070
-    cipher: "chacha20-ietf-poly1305"
-    password: "sarbazanshahid"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1102"
-    type: ss
-    server: "82.38.31.203"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1103"
-    type: ss
-    server: "82.38.31.204"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1104"
-    type: ss
-    server: "194.187.249.220"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1105"
-    type: ss
-    server: "82.38.31.17"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1106"
-    type: ss
-    server: "82.38.31.29"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1107"
-    type: ss
-    server: "108.181.121.226"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "WSyL4XTwNsdv"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1108"
-    type: ss
-    server: "108.181.58.239"
-    port: 8388
-    cipher: "chacha20-ietf-poly1305"
-    password: "CJmTCCx7Ltud"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1109"
-    type: ss
-    server: "82.38.31.210"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1110"
-    type: ss
-    server: "82.38.31.181"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1111"
-    type: ss
-    server: "194.164.92.198"
-    port: 1234
-    cipher: "chacha20-ietf-poly1305"
-    password: "zz0dHjDfoaSaZuRFLGH-hNfBALSEJUYD"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1112"
-    type: ss
-    server: "82.38.31.205"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1113"
-    type: ss
-    server: "82.38.31.202"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1114"
-    type: ss
-    server: "92.118.205.211"
-    port: 5600
-    cipher: "aes-256-gcm"
-    password: "Y6R9pAtvxxzmGC"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1115"
-    type: ss
-    server: "195.12.48.126"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1116"
-    type: ss
-    server: "62.210.123.100"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1117"
-    type: ss
-    server: "82.38.31.199"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1118"
-    type: ss
-    server: "195.133.23.45"
-    port: 10125
-    cipher: "aes-256-gcm"
-    password: "fbaf33bcffe53cf9"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1119"
-    type: ss
-    server: "62.113.194.158"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1120"
-    type: ss
-    server: "82.38.31.179"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1121"
-    type: ss
-    server: "146.70.26.156"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1122"
-    type: ss
-    server: "193.29.139.144"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1123"
-    type: ss
-    server: "82.38.31.11"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1124"
-    type: ss
-    server: "82.38.31.155"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1125"
-    type: ss
-    server: "82.38.31.32"
-    port: 443
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1126"
-    type: ss
-    server: "82.38.31.189"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1127"
-    type: ss
-    server: "185.128.25.36"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1128"
-    type: ss
-    server: "62.113.194.49"
-    port: 1080
-    cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1129"
     type: ss
     server: "82.38.31.184"
     port: 8080
     cipher: "chacha20-ietf-poly1305"
     password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1130"
+  - name: "@DeltaKroneckerGithub_Clash_1061"
     type: ss
-    server: "195.123.209.159"
-    port: 1080
+    server: "82.38.31.217"
+    port: 8080
     cipher: "chacha20-ietf-poly1305"
-    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1131"
+  - name: "@DeltaKroneckerGithub_Clash_1062"
     type: ss
-    server: "82.38.31.34"
+    server: "82.38.31.26"
     port: 8080
     cipher: "chacha20-ietf-poly1305"
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1132"
+  - name: "@DeltaKroneckerGithub_Clash_1063"
+    type: ss
+    server: "82.38.31.13"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1064"
+    type: ss
+    server: "62.210.123.100"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1065"
+    type: ss
+    server: "62.113.237.3"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1066"
+    type: ss
+    server: "82.38.31.32"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1067"
+    type: ss
+    server: "185.156.173.206"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1068"
     type: ss
     server: "82.38.31.2"
     port: 8080
     cipher: "chacha20-ietf-poly1305"
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1133"
+  - name: "@DeltaKroneckerGithub_Clash_1069"
     type: ss
-    server: "82.38.31.149"
-    port: 8080
+    server: "188.119.149.27"
+    port: 1080
     cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1134"
+  - name: "@DeltaKroneckerGithub_Clash_1070"
     type: ss
-    server: "193.29.139.235"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    server: "94.156.250.148"
+    port: 7001
+    cipher: "aes-256-gcm"
+    password: "RexnBgU7EV5ADxG"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1135"
+  - name: "@DeltaKroneckerGithub_Clash_1071"
     type: ss
-    server: "5.253.59.156"
-    port: 32140
-    cipher: "chacha20-ietf-poly1305"
-    password: "8KY8zE0mGR1Tf7hQBr7n3I"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1136"
-    type: ss
-    server: "82.38.31.185"
+    server: "82.38.31.192"
     port: 8080
     cipher: "chacha20-ietf-poly1305"
     password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1137"
+  - name: "@DeltaKroneckerGithub_Clash_1072"
+    type: ss
+    server: "195.154.29.29"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1073"
+    type: ss
+    server: "146.70.222.126"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1074"
+    type: ss
+    server: "158.173.24.73"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1075"
+    type: ss
+    server: "82.38.31.206"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1076"
     type: ss
     server: "82.38.31.15"
     port: 443
     cipher: "chacha20-ietf-poly1305"
     password: "oZIoA69Q8yhcQV8ka3Pa3A"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1138"
+  - name: "@DeltaKroneckerGithub_Clash_1077"
     type: ss
-    server: "140.174.184.5"
+    server: "82.38.31.210"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1078"
+    type: ss
+    server: "158.173.20.208"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1079"
+    type: ss
+    server: "82.38.31.48"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1080"
+    type: ss
+    server: "194.187.251.2"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1081"
+    type: ss
+    server: "82.38.31.11"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1082"
+    type: ss
+    server: "82.38.31.155"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1083"
+    type: ss
+    server: "82.38.31.199"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1084"
+    type: ss
+    server: "82.38.31.164"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1085"
+    type: ss
+    server: "185.213.23.63"
+    port: 990
+    cipher: "chacha20-ietf-poly1305"
+    password: "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1086"
+    type: ss
+    server: "108.181.126.122"
     port: 8388
     cipher: "chacha20-ietf-poly1305"
-    password: "qItG8SueYQcP"
+    password: "CJmTCCx7Ltud"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1139"
+  - name: "@DeltaKroneckerGithub_Clash_1087"
+    type: ss
+    server: "193.29.139.204"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1088"
+    type: ss
+    server: "82.38.31.3"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1089"
+    type: ss
+    server: "185.128.25.44"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1090"
+    type: ss
+    server: "82.38.31.219"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1091"
+    type: ss
+    server: "185.156.174.106"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1092"
+    type: ss
+    server: "82.38.31.17"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1093"
+    type: ss
+    server: "137.74.119.18"
+    port: 10443
+    cipher: "chacha20-ietf-poly1305"
+    password: "diOMBU5IDvJcFqyNPbRjYR"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1094"
     type: ss
     server: "82.38.31.218"
     port: 8080
     cipher: "chacha20-ietf-poly1305"
     password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1140"
+  - name: "@DeltaKroneckerGithub_Clash_1095"
+    type: ss
+    server: "178.128.195.253"
+    port: 10070
+    cipher: "chacha20-ietf-poly1305"
+    password: "sarbazanshahid"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1096"
+    type: ss
+    server: "82.38.31.205"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1097"
+    type: ss
+    server: "193.29.139.235"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1098"
+    type: ss
+    server: "switcher-nick-croquet.freesocks.work"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "9tqhMdIrTkgQ46PvhyAtMH"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1099"
+    type: ss
+    server: "194.187.249.220"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1100"
+    type: ss
+    server: "82.38.31.57"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1101"
+    type: ss
+    server: "51.159.19.174"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1102"
+    type: ss
+    server: "195.133.23.27"
+    port: 20111
+    cipher: "aes-256-gcm"
+    password: "1a87017d0bf57f34"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1103"
+    type: ss
+    server: "92.118.205.211"
+    port: 5600
+    cipher: "aes-256-gcm"
+    password: "Y6R9pAtvxxzmGC"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1104"
+    type: ss
+    server: "82.38.31.214"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1105"
+    type: ss
+    server: "109.104.154.163"
+    port: 2375
+    cipher: "aes-256-gcm"
+    password: "faBAoD54k87UJG7"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1106"
+    type: ss
+    server: "195.242.213.238"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1107"
+    type: ss
+    server: "141.98.101.179"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1108"
+    type: ss
+    server: "82.38.31.29"
+    port: 443
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1109"
+    type: ss
+    server: "82.38.31.180"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1110"
+    type: ss
+    server: "82.38.31.10"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1111"
+    type: ss
+    server: "82.38.31.182"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1112"
+    type: ss
+    server: "146.70.146.222"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1113"
+    type: ss
+    server: "195.123.209.159"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1114"
     type: ss
     server: "82.38.31.176"
     port: 8080
     cipher: "chacha20-ietf-poly1305"
     password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1115"
+    type: ss
+    server: "185.213.20.110"
+    port: 7001
+    cipher: "aes-256-gcm"
+    password: "RexnBgU7EV5ADxG"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1116"
+    type: ss
+    server: "194.164.92.198"
+    port: 1234
+    cipher: "chacha20-ietf-poly1305"
+    password: "zz0dHjDfoaSaZuRFLGH-hNfBALSEJUYD"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1117"
+    type: ss
+    server: "82.38.31.34"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1118"
+    type: ss
+    server: "62.113.194.49"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1119"
+    type: ss
+    server: "82.38.31.149"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1120"
+    type: ss
+    server: "82.38.31.211"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1121"
+    type: ss
+    server: "82.38.31.7"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1122"
+    type: ss
+    server: "82.38.31.179"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1123"
+    type: ss
+    server: "82.38.31.181"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1124"
+    type: ss
+    server: "82.38.31.189"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1125"
+    type: ss
+    server: "62.113.194.158"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1126"
+    type: ss
+    server: "108.181.58.239"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "CJmTCCx7Ltud"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1127"
+    type: ss
+    server: "82.38.31.186"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1128"
+    type: ss
+    server: "193.29.139.151"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1129"
+    type: ss
+    server: "82.38.31.193"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1130"
+    type: ss
+    server: "57.129.121.230"
+    port: 10443
+    cipher: "chacha20-ietf-poly1305"
+    password: "uROuEqsL8IUMMVb4wDwnGU"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1131"
+    type: ss
+    server: "195.133.23.45"
+    port: 10125
+    cipher: "aes-256-gcm"
+    password: "fbaf33bcffe53cf9"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1132"
+    type: ss
+    server: "185.117.88.9"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1133"
+    type: ss
+    server: "140.174.184.5"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "qItG8SueYQcP"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1134"
+    type: ss
+    server: "65.109.219.124"
+    port: 18269
+    cipher: "2022-blake3-aes-256-gcm"
+    password: "uXSgW2m4sbfoYckTbFiGnaVnP1ygIULi12LPQvUZNjM=:FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw="
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1135"
+    type: ss
+    server: "141.98.101.182"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1136"
+    type: ss
+    server: "46.17.40.13"
+    port: 20111
+    cipher: "aes-256-gcm"
+    password: "b24a80e79cee1d1f"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1137"
+    type: ss
+    server: "185.198.235.208"
+    port: 20129
+    cipher: "aes-256-gcm"
+    password: "6512030961473f21"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1138"
+    type: ss
+    server: "82.38.31.191"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1139"
+    type: ss
+    server: "82.38.31.185"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1140"
+    type: ss
+    server: "209.46.102.22"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "1hhrqrokj3ag"
+    udp: true
   - name: "@DeltaKroneckerGithub_Clash_1141"
+    type: ss
+    server: "146.70.26.156"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1142"
+    type: ss
+    server: "82.38.31.187"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1143"
+    type: ss
+    server: "82.38.31.202"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1144"
+    type: ss
+    server: "158.173.20.171"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1145"
+    type: ss
+    server: "82.38.31.200"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1146"
+    type: ss
+    server: "82.38.31.46"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1147"
+    type: ss
+    server: "141.98.101.181"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1148"
+    type: ss
+    server: "185.128.25.36"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1149"
+    type: ss
+    server: "82.38.31.208"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1150"
+    type: ss
+    server: "82.38.31.18"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1151"
+    type: ss
+    server: "5.253.59.156"
+    port: 32140
+    cipher: "chacha20-ietf-poly1305"
+    password: "8KY8zE0mGR1Tf7hQBr7n3I"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1152"
+    type: ss
+    server: "82.38.31.16"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1153"
+    type: ss
+    server: "82.38.31.198"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1154"
+    type: ss
+    server: "82.38.31.183"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1155"
+    type: ss
+    server: "82.38.31.203"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1156"
+    type: ss
+    server: "193.29.139.144"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1157"
+    type: ss
+    server: "82.38.31.204"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1158"
+    type: ss
+    server: "108.181.121.226"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "WSyL4XTwNsdv"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1159"
+    type: ss
+    server: "82.38.31.9"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1160"
+    type: ss
+    server: "217.138.207.106"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1161"
+    type: ss
+    server: "185.128.27.178"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1162"
+    type: ss
+    server: "82.38.31.207"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1163"
+    type: ss
+    server: "195.12.48.126"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1164"
+    type: ss
+    server: "82.38.31.47"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "oZIoA69Q8yhcQV8ka3Pa3A"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1165"
+    type: ss
+    server: "82.38.31.212"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1166"
+    type: ss
+    server: "82.38.31.216"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1167"
+    type: ss
+    server: "141.98.101.178"
+    port: 443
+    cipher: "aes-128-gcm"
+    password: "shadowsocks"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1168"
+    type: ss
+    server: "82.38.31.190"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1169"
+    type: ss
+    server: "163.172.244.41"
+    port: 1080
+    cipher: "chacha20-ietf-poly1305"
+    password: "Vr06rU_v1vFPYeXq9zbsAA"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1170"
+    type: ss
+    server: "213.109.147.242"
+    port: 62685
+    cipher: "chacha20-ietf-poly1305"
+    password: "VpKABcOpNNA0l5G2AVOmw8"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1171"
+    type: ss
+    server: "82.38.31.194"
+    port: 8080
+    cipher: "chacha20-ietf-poly1305"
+    password: "k1dBOmOB4oqi7Ump37a1bQ"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1172"
+    type: ss
+    server: "31.76.80.205"
+    port: 8388
+    cipher: "chacha20-ietf-poly1305"
+    password: "UZQY9hNjVNWwamajrXAf1vt8u63nj0fF"
+    udp: true
+  - name: "@DeltaKroneckerGithub_Clash_1173"
     type: ss
     server: "130.195.222.215"
     port: 443
@@ -828,47 +863,12 @@ proxies:
       path: "59fc5f8c-5697-4eb8-acf2-8ae363f203a2/?ed\\=2560"
       host: "woshinidie-et3.pages.dev"
       tls: true
-  - name: "@DeltaKroneckerGithub_Clash_1142"
+  - name: "@DeltaKroneckerGithub_Clash_1174"
     type: ss
-    server: "65.109.219.124"
-    port: 18269
-    cipher: "2022-blake3-aes-256-gcm"
-    password: "uXSgW2m4sbfoYckTbFiGnaVnP1ygIULi12LPQvUZNjM=:FNWzI4OwPTNgAFZUUUFjx19m5YfLo3qNXt07tCQ3lZw="
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1143"
-    type: ss
-    server: "82.38.31.219"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1144"
-    type: ss
-    server: "163.172.244.41"
+    server: "84.247.48.78"
     port: 1080
     cipher: "chacha20-ietf-poly1305"
     password: "Vr06rU_v1vFPYeXq9zbsAA"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1145"
-    type: ss
-    server: "82.38.31.193"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1146"
-    type: ss
-    server: "82.38.31.191"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
-    udp: true
-  - name: "@DeltaKroneckerGithub_Clash_1147"
-    type: ss
-    server: "82.38.31.192"
-    port: 8080
-    cipher: "chacha20-ietf-poly1305"
-    password: "k1dBOmOB4oqi7Ump37a1bQ"
     udp: true
 
 proxy-groups:
@@ -912,33 +912,6 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub_Clash_1033"
-      - "@DeltaKroneckerGithub_Clash_1034"
-      - "@DeltaKroneckerGithub_Clash_1035"
-      - "@DeltaKroneckerGithub_Clash_1036"
-      - "@DeltaKroneckerGithub_Clash_1037"
-      - "@DeltaKroneckerGithub_Clash_1038"
-      - "@DeltaKroneckerGithub_Clash_1039"
-      - "@DeltaKroneckerGithub_Clash_1040"
-      - "@DeltaKroneckerGithub_Clash_1041"
-      - "@DeltaKroneckerGithub_Clash_1042"
-      - "@DeltaKroneckerGithub_Clash_1043"
-      - "@DeltaKroneckerGithub_Clash_1044"
-      - "@DeltaKroneckerGithub_Clash_1045"
-      - "@DeltaKroneckerGithub_Clash_1046"
-      - "@DeltaKroneckerGithub_Clash_1047"
-      - "@DeltaKroneckerGithub_Clash_1048"
-      - "@DeltaKroneckerGithub_Clash_1049"
-      - "@DeltaKroneckerGithub_Clash_1050"
-      - "@DeltaKroneckerGithub_Clash_1051"
-      - "@DeltaKroneckerGithub_Clash_1052"
-      - "@DeltaKroneckerGithub_Clash_1053"
-      - "@DeltaKroneckerGithub_Clash_1054"
-      - "@DeltaKroneckerGithub_Clash_1055"
-      - "@DeltaKroneckerGithub_Clash_1056"
-      - "@DeltaKroneckerGithub_Clash_1057"
-      - "@DeltaKroneckerGithub_Clash_1058"
-      - "@DeltaKroneckerGithub_Clash_1059"
       - "@DeltaKroneckerGithub_Clash_1060"
       - "@DeltaKroneckerGithub_Clash_1061"
       - "@DeltaKroneckerGithub_Clash_1062"
@@ -1027,6 +1000,33 @@ proxy-groups:
       - "@DeltaKroneckerGithub_Clash_1145"
       - "@DeltaKroneckerGithub_Clash_1146"
       - "@DeltaKroneckerGithub_Clash_1147"
+      - "@DeltaKroneckerGithub_Clash_1148"
+      - "@DeltaKroneckerGithub_Clash_1149"
+      - "@DeltaKroneckerGithub_Clash_1150"
+      - "@DeltaKroneckerGithub_Clash_1151"
+      - "@DeltaKroneckerGithub_Clash_1152"
+      - "@DeltaKroneckerGithub_Clash_1153"
+      - "@DeltaKroneckerGithub_Clash_1154"
+      - "@DeltaKroneckerGithub_Clash_1155"
+      - "@DeltaKroneckerGithub_Clash_1156"
+      - "@DeltaKroneckerGithub_Clash_1157"
+      - "@DeltaKroneckerGithub_Clash_1158"
+      - "@DeltaKroneckerGithub_Clash_1159"
+      - "@DeltaKroneckerGithub_Clash_1160"
+      - "@DeltaKroneckerGithub_Clash_1161"
+      - "@DeltaKroneckerGithub_Clash_1162"
+      - "@DeltaKroneckerGithub_Clash_1163"
+      - "@DeltaKroneckerGithub_Clash_1164"
+      - "@DeltaKroneckerGithub_Clash_1165"
+      - "@DeltaKroneckerGithub_Clash_1166"
+      - "@DeltaKroneckerGithub_Clash_1167"
+      - "@DeltaKroneckerGithub_Clash_1168"
+      - "@DeltaKroneckerGithub_Clash_1169"
+      - "@DeltaKroneckerGithub_Clash_1170"
+      - "@DeltaKroneckerGithub_Clash_1171"
+      - "@DeltaKroneckerGithub_Clash_1172"
+      - "@DeltaKroneckerGithub_Clash_1173"
+      - "@DeltaKroneckerGithub_Clash_1174"
 
   - name: "LB-CDN"
     type: load-balance
@@ -1036,33 +1036,6 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub_Clash_1033"
-      - "@DeltaKroneckerGithub_Clash_1034"
-      - "@DeltaKroneckerGithub_Clash_1035"
-      - "@DeltaKroneckerGithub_Clash_1036"
-      - "@DeltaKroneckerGithub_Clash_1037"
-      - "@DeltaKroneckerGithub_Clash_1038"
-      - "@DeltaKroneckerGithub_Clash_1039"
-      - "@DeltaKroneckerGithub_Clash_1040"
-      - "@DeltaKroneckerGithub_Clash_1041"
-      - "@DeltaKroneckerGithub_Clash_1042"
-      - "@DeltaKroneckerGithub_Clash_1043"
-      - "@DeltaKroneckerGithub_Clash_1044"
-      - "@DeltaKroneckerGithub_Clash_1045"
-      - "@DeltaKroneckerGithub_Clash_1046"
-      - "@DeltaKroneckerGithub_Clash_1047"
-      - "@DeltaKroneckerGithub_Clash_1048"
-      - "@DeltaKroneckerGithub_Clash_1049"
-      - "@DeltaKroneckerGithub_Clash_1050"
-      - "@DeltaKroneckerGithub_Clash_1051"
-      - "@DeltaKroneckerGithub_Clash_1052"
-      - "@DeltaKroneckerGithub_Clash_1053"
-      - "@DeltaKroneckerGithub_Clash_1054"
-      - "@DeltaKroneckerGithub_Clash_1055"
-      - "@DeltaKroneckerGithub_Clash_1056"
-      - "@DeltaKroneckerGithub_Clash_1057"
-      - "@DeltaKroneckerGithub_Clash_1058"
-      - "@DeltaKroneckerGithub_Clash_1059"
       - "@DeltaKroneckerGithub_Clash_1060"
       - "@DeltaKroneckerGithub_Clash_1061"
       - "@DeltaKroneckerGithub_Clash_1062"
@@ -1151,6 +1124,33 @@ proxy-groups:
       - "@DeltaKroneckerGithub_Clash_1145"
       - "@DeltaKroneckerGithub_Clash_1146"
       - "@DeltaKroneckerGithub_Clash_1147"
+      - "@DeltaKroneckerGithub_Clash_1148"
+      - "@DeltaKroneckerGithub_Clash_1149"
+      - "@DeltaKroneckerGithub_Clash_1150"
+      - "@DeltaKroneckerGithub_Clash_1151"
+      - "@DeltaKroneckerGithub_Clash_1152"
+      - "@DeltaKroneckerGithub_Clash_1153"
+      - "@DeltaKroneckerGithub_Clash_1154"
+      - "@DeltaKroneckerGithub_Clash_1155"
+      - "@DeltaKroneckerGithub_Clash_1156"
+      - "@DeltaKroneckerGithub_Clash_1157"
+      - "@DeltaKroneckerGithub_Clash_1158"
+      - "@DeltaKroneckerGithub_Clash_1159"
+      - "@DeltaKroneckerGithub_Clash_1160"
+      - "@DeltaKroneckerGithub_Clash_1161"
+      - "@DeltaKroneckerGithub_Clash_1162"
+      - "@DeltaKroneckerGithub_Clash_1163"
+      - "@DeltaKroneckerGithub_Clash_1164"
+      - "@DeltaKroneckerGithub_Clash_1165"
+      - "@DeltaKroneckerGithub_Clash_1166"
+      - "@DeltaKroneckerGithub_Clash_1167"
+      - "@DeltaKroneckerGithub_Clash_1168"
+      - "@DeltaKroneckerGithub_Clash_1169"
+      - "@DeltaKroneckerGithub_Clash_1170"
+      - "@DeltaKroneckerGithub_Clash_1171"
+      - "@DeltaKroneckerGithub_Clash_1172"
+      - "@DeltaKroneckerGithub_Clash_1173"
+      - "@DeltaKroneckerGithub_Clash_1174"
 
   # ── Fastest-proxy groups ──────────────────────────────────────────────────
   - name: "FAST-ALL"
@@ -1160,33 +1160,6 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub_Clash_1033"
-      - "@DeltaKroneckerGithub_Clash_1034"
-      - "@DeltaKroneckerGithub_Clash_1035"
-      - "@DeltaKroneckerGithub_Clash_1036"
-      - "@DeltaKroneckerGithub_Clash_1037"
-      - "@DeltaKroneckerGithub_Clash_1038"
-      - "@DeltaKroneckerGithub_Clash_1039"
-      - "@DeltaKroneckerGithub_Clash_1040"
-      - "@DeltaKroneckerGithub_Clash_1041"
-      - "@DeltaKroneckerGithub_Clash_1042"
-      - "@DeltaKroneckerGithub_Clash_1043"
-      - "@DeltaKroneckerGithub_Clash_1044"
-      - "@DeltaKroneckerGithub_Clash_1045"
-      - "@DeltaKroneckerGithub_Clash_1046"
-      - "@DeltaKroneckerGithub_Clash_1047"
-      - "@DeltaKroneckerGithub_Clash_1048"
-      - "@DeltaKroneckerGithub_Clash_1049"
-      - "@DeltaKroneckerGithub_Clash_1050"
-      - "@DeltaKroneckerGithub_Clash_1051"
-      - "@DeltaKroneckerGithub_Clash_1052"
-      - "@DeltaKroneckerGithub_Clash_1053"
-      - "@DeltaKroneckerGithub_Clash_1054"
-      - "@DeltaKroneckerGithub_Clash_1055"
-      - "@DeltaKroneckerGithub_Clash_1056"
-      - "@DeltaKroneckerGithub_Clash_1057"
-      - "@DeltaKroneckerGithub_Clash_1058"
-      - "@DeltaKroneckerGithub_Clash_1059"
       - "@DeltaKroneckerGithub_Clash_1060"
       - "@DeltaKroneckerGithub_Clash_1061"
       - "@DeltaKroneckerGithub_Clash_1062"
@@ -1275,6 +1248,33 @@ proxy-groups:
       - "@DeltaKroneckerGithub_Clash_1145"
       - "@DeltaKroneckerGithub_Clash_1146"
       - "@DeltaKroneckerGithub_Clash_1147"
+      - "@DeltaKroneckerGithub_Clash_1148"
+      - "@DeltaKroneckerGithub_Clash_1149"
+      - "@DeltaKroneckerGithub_Clash_1150"
+      - "@DeltaKroneckerGithub_Clash_1151"
+      - "@DeltaKroneckerGithub_Clash_1152"
+      - "@DeltaKroneckerGithub_Clash_1153"
+      - "@DeltaKroneckerGithub_Clash_1154"
+      - "@DeltaKroneckerGithub_Clash_1155"
+      - "@DeltaKroneckerGithub_Clash_1156"
+      - "@DeltaKroneckerGithub_Clash_1157"
+      - "@DeltaKroneckerGithub_Clash_1158"
+      - "@DeltaKroneckerGithub_Clash_1159"
+      - "@DeltaKroneckerGithub_Clash_1160"
+      - "@DeltaKroneckerGithub_Clash_1161"
+      - "@DeltaKroneckerGithub_Clash_1162"
+      - "@DeltaKroneckerGithub_Clash_1163"
+      - "@DeltaKroneckerGithub_Clash_1164"
+      - "@DeltaKroneckerGithub_Clash_1165"
+      - "@DeltaKroneckerGithub_Clash_1166"
+      - "@DeltaKroneckerGithub_Clash_1167"
+      - "@DeltaKroneckerGithub_Clash_1168"
+      - "@DeltaKroneckerGithub_Clash_1169"
+      - "@DeltaKroneckerGithub_Clash_1170"
+      - "@DeltaKroneckerGithub_Clash_1171"
+      - "@DeltaKroneckerGithub_Clash_1172"
+      - "@DeltaKroneckerGithub_Clash_1173"
+      - "@DeltaKroneckerGithub_Clash_1174"
 
   - name: "FAST-CDN"
     type: url-test
@@ -1283,33 +1283,6 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub_Clash_1033"
-      - "@DeltaKroneckerGithub_Clash_1034"
-      - "@DeltaKroneckerGithub_Clash_1035"
-      - "@DeltaKroneckerGithub_Clash_1036"
-      - "@DeltaKroneckerGithub_Clash_1037"
-      - "@DeltaKroneckerGithub_Clash_1038"
-      - "@DeltaKroneckerGithub_Clash_1039"
-      - "@DeltaKroneckerGithub_Clash_1040"
-      - "@DeltaKroneckerGithub_Clash_1041"
-      - "@DeltaKroneckerGithub_Clash_1042"
-      - "@DeltaKroneckerGithub_Clash_1043"
-      - "@DeltaKroneckerGithub_Clash_1044"
-      - "@DeltaKroneckerGithub_Clash_1045"
-      - "@DeltaKroneckerGithub_Clash_1046"
-      - "@DeltaKroneckerGithub_Clash_1047"
-      - "@DeltaKroneckerGithub_Clash_1048"
-      - "@DeltaKroneckerGithub_Clash_1049"
-      - "@DeltaKroneckerGithub_Clash_1050"
-      - "@DeltaKroneckerGithub_Clash_1051"
-      - "@DeltaKroneckerGithub_Clash_1052"
-      - "@DeltaKroneckerGithub_Clash_1053"
-      - "@DeltaKroneckerGithub_Clash_1054"
-      - "@DeltaKroneckerGithub_Clash_1055"
-      - "@DeltaKroneckerGithub_Clash_1056"
-      - "@DeltaKroneckerGithub_Clash_1057"
-      - "@DeltaKroneckerGithub_Clash_1058"
-      - "@DeltaKroneckerGithub_Clash_1059"
       - "@DeltaKroneckerGithub_Clash_1060"
       - "@DeltaKroneckerGithub_Clash_1061"
       - "@DeltaKroneckerGithub_Clash_1062"
@@ -1398,6 +1371,33 @@ proxy-groups:
       - "@DeltaKroneckerGithub_Clash_1145"
       - "@DeltaKroneckerGithub_Clash_1146"
       - "@DeltaKroneckerGithub_Clash_1147"
+      - "@DeltaKroneckerGithub_Clash_1148"
+      - "@DeltaKroneckerGithub_Clash_1149"
+      - "@DeltaKroneckerGithub_Clash_1150"
+      - "@DeltaKroneckerGithub_Clash_1151"
+      - "@DeltaKroneckerGithub_Clash_1152"
+      - "@DeltaKroneckerGithub_Clash_1153"
+      - "@DeltaKroneckerGithub_Clash_1154"
+      - "@DeltaKroneckerGithub_Clash_1155"
+      - "@DeltaKroneckerGithub_Clash_1156"
+      - "@DeltaKroneckerGithub_Clash_1157"
+      - "@DeltaKroneckerGithub_Clash_1158"
+      - "@DeltaKroneckerGithub_Clash_1159"
+      - "@DeltaKroneckerGithub_Clash_1160"
+      - "@DeltaKroneckerGithub_Clash_1161"
+      - "@DeltaKroneckerGithub_Clash_1162"
+      - "@DeltaKroneckerGithub_Clash_1163"
+      - "@DeltaKroneckerGithub_Clash_1164"
+      - "@DeltaKroneckerGithub_Clash_1165"
+      - "@DeltaKroneckerGithub_Clash_1166"
+      - "@DeltaKroneckerGithub_Clash_1167"
+      - "@DeltaKroneckerGithub_Clash_1168"
+      - "@DeltaKroneckerGithub_Clash_1169"
+      - "@DeltaKroneckerGithub_Clash_1170"
+      - "@DeltaKroneckerGithub_Clash_1171"
+      - "@DeltaKroneckerGithub_Clash_1172"
+      - "@DeltaKroneckerGithub_Clash_1173"
+      - "@DeltaKroneckerGithub_Clash_1174"
 
   # ── UDP group ─────────────────────────────────────────────────────────────
   - name: "UDP-BEST"
@@ -1407,33 +1407,6 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub_Clash_1033"
-      - "@DeltaKroneckerGithub_Clash_1034"
-      - "@DeltaKroneckerGithub_Clash_1035"
-      - "@DeltaKroneckerGithub_Clash_1036"
-      - "@DeltaKroneckerGithub_Clash_1037"
-      - "@DeltaKroneckerGithub_Clash_1038"
-      - "@DeltaKroneckerGithub_Clash_1039"
-      - "@DeltaKroneckerGithub_Clash_1040"
-      - "@DeltaKroneckerGithub_Clash_1041"
-      - "@DeltaKroneckerGithub_Clash_1042"
-      - "@DeltaKroneckerGithub_Clash_1043"
-      - "@DeltaKroneckerGithub_Clash_1044"
-      - "@DeltaKroneckerGithub_Clash_1045"
-      - "@DeltaKroneckerGithub_Clash_1046"
-      - "@DeltaKroneckerGithub_Clash_1047"
-      - "@DeltaKroneckerGithub_Clash_1048"
-      - "@DeltaKroneckerGithub_Clash_1049"
-      - "@DeltaKroneckerGithub_Clash_1050"
-      - "@DeltaKroneckerGithub_Clash_1051"
-      - "@DeltaKroneckerGithub_Clash_1052"
-      - "@DeltaKroneckerGithub_Clash_1053"
-      - "@DeltaKroneckerGithub_Clash_1054"
-      - "@DeltaKroneckerGithub_Clash_1055"
-      - "@DeltaKroneckerGithub_Clash_1056"
-      - "@DeltaKroneckerGithub_Clash_1057"
-      - "@DeltaKroneckerGithub_Clash_1058"
-      - "@DeltaKroneckerGithub_Clash_1059"
       - "@DeltaKroneckerGithub_Clash_1060"
       - "@DeltaKroneckerGithub_Clash_1061"
       - "@DeltaKroneckerGithub_Clash_1062"
@@ -1522,38 +1495,38 @@ proxy-groups:
       - "@DeltaKroneckerGithub_Clash_1145"
       - "@DeltaKroneckerGithub_Clash_1146"
       - "@DeltaKroneckerGithub_Clash_1147"
+      - "@DeltaKroneckerGithub_Clash_1148"
+      - "@DeltaKroneckerGithub_Clash_1149"
+      - "@DeltaKroneckerGithub_Clash_1150"
+      - "@DeltaKroneckerGithub_Clash_1151"
+      - "@DeltaKroneckerGithub_Clash_1152"
+      - "@DeltaKroneckerGithub_Clash_1153"
+      - "@DeltaKroneckerGithub_Clash_1154"
+      - "@DeltaKroneckerGithub_Clash_1155"
+      - "@DeltaKroneckerGithub_Clash_1156"
+      - "@DeltaKroneckerGithub_Clash_1157"
+      - "@DeltaKroneckerGithub_Clash_1158"
+      - "@DeltaKroneckerGithub_Clash_1159"
+      - "@DeltaKroneckerGithub_Clash_1160"
+      - "@DeltaKroneckerGithub_Clash_1161"
+      - "@DeltaKroneckerGithub_Clash_1162"
+      - "@DeltaKroneckerGithub_Clash_1163"
+      - "@DeltaKroneckerGithub_Clash_1164"
+      - "@DeltaKroneckerGithub_Clash_1165"
+      - "@DeltaKroneckerGithub_Clash_1166"
+      - "@DeltaKroneckerGithub_Clash_1167"
+      - "@DeltaKroneckerGithub_Clash_1168"
+      - "@DeltaKroneckerGithub_Clash_1169"
+      - "@DeltaKroneckerGithub_Clash_1170"
+      - "@DeltaKroneckerGithub_Clash_1171"
+      - "@DeltaKroneckerGithub_Clash_1172"
+      - "@DeltaKroneckerGithub_Clash_1173"
+      - "@DeltaKroneckerGithub_Clash_1174"
 
   # ── Manual selector ───────────────────────────────────────────────────────
   - name: "MANUAL"
     type: select
     proxies:
-      - "@DeltaKroneckerGithub_Clash_1033"
-      - "@DeltaKroneckerGithub_Clash_1034"
-      - "@DeltaKroneckerGithub_Clash_1035"
-      - "@DeltaKroneckerGithub_Clash_1036"
-      - "@DeltaKroneckerGithub_Clash_1037"
-      - "@DeltaKroneckerGithub_Clash_1038"
-      - "@DeltaKroneckerGithub_Clash_1039"
-      - "@DeltaKroneckerGithub_Clash_1040"
-      - "@DeltaKroneckerGithub_Clash_1041"
-      - "@DeltaKroneckerGithub_Clash_1042"
-      - "@DeltaKroneckerGithub_Clash_1043"
-      - "@DeltaKroneckerGithub_Clash_1044"
-      - "@DeltaKroneckerGithub_Clash_1045"
-      - "@DeltaKroneckerGithub_Clash_1046"
-      - "@DeltaKroneckerGithub_Clash_1047"
-      - "@DeltaKroneckerGithub_Clash_1048"
-      - "@DeltaKroneckerGithub_Clash_1049"
-      - "@DeltaKroneckerGithub_Clash_1050"
-      - "@DeltaKroneckerGithub_Clash_1051"
-      - "@DeltaKroneckerGithub_Clash_1052"
-      - "@DeltaKroneckerGithub_Clash_1053"
-      - "@DeltaKroneckerGithub_Clash_1054"
-      - "@DeltaKroneckerGithub_Clash_1055"
-      - "@DeltaKroneckerGithub_Clash_1056"
-      - "@DeltaKroneckerGithub_Clash_1057"
-      - "@DeltaKroneckerGithub_Clash_1058"
-      - "@DeltaKroneckerGithub_Clash_1059"
       - "@DeltaKroneckerGithub_Clash_1060"
       - "@DeltaKroneckerGithub_Clash_1061"
       - "@DeltaKroneckerGithub_Clash_1062"
@@ -1642,6 +1615,33 @@ proxy-groups:
       - "@DeltaKroneckerGithub_Clash_1145"
       - "@DeltaKroneckerGithub_Clash_1146"
       - "@DeltaKroneckerGithub_Clash_1147"
+      - "@DeltaKroneckerGithub_Clash_1148"
+      - "@DeltaKroneckerGithub_Clash_1149"
+      - "@DeltaKroneckerGithub_Clash_1150"
+      - "@DeltaKroneckerGithub_Clash_1151"
+      - "@DeltaKroneckerGithub_Clash_1152"
+      - "@DeltaKroneckerGithub_Clash_1153"
+      - "@DeltaKroneckerGithub_Clash_1154"
+      - "@DeltaKroneckerGithub_Clash_1155"
+      - "@DeltaKroneckerGithub_Clash_1156"
+      - "@DeltaKroneckerGithub_Clash_1157"
+      - "@DeltaKroneckerGithub_Clash_1158"
+      - "@DeltaKroneckerGithub_Clash_1159"
+      - "@DeltaKroneckerGithub_Clash_1160"
+      - "@DeltaKroneckerGithub_Clash_1161"
+      - "@DeltaKroneckerGithub_Clash_1162"
+      - "@DeltaKroneckerGithub_Clash_1163"
+      - "@DeltaKroneckerGithub_Clash_1164"
+      - "@DeltaKroneckerGithub_Clash_1165"
+      - "@DeltaKroneckerGithub_Clash_1166"
+      - "@DeltaKroneckerGithub_Clash_1167"
+      - "@DeltaKroneckerGithub_Clash_1168"
+      - "@DeltaKroneckerGithub_Clash_1169"
+      - "@DeltaKroneckerGithub_Clash_1170"
+      - "@DeltaKroneckerGithub_Clash_1171"
+      - "@DeltaKroneckerGithub_Clash_1172"
+      - "@DeltaKroneckerGithub_Clash_1173"
+      - "@DeltaKroneckerGithub_Clash_1174"
 
 rules:
   - MATCH,PROXY-BEST
