@@ -1,6 +1,2 @@
-https://github.com/kort0881/vpn-vless-configs-russia/blob/main/data/githubmirror/new/all_new.txt
-https://github.com/kort0881/vpn-vless-configs-russia/blob/main/data/githubmirror/new/cf_fresh.txt
-https://github.com/kort0881/vpn-vless-configs-russia/raw/refs/heads/main/data/githubmirror/clean/vless.txt
-https://github.com/kort0881/vpn-vless-configs-russia/raw/refs/heads/main/data/githubmirror/clean/trojan.txt
-https://github.com/kort0881/vpn-vless-configs-russia/raw/refs/heads/main/data/githubmirror/clean/ss.txt
-
+https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
