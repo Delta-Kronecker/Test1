@@ -11,8 +11,8 @@
     "http_dial_timeout_ms": 11000,
     "http_response_timeout_ms": 11000,
 
-    "max_retries": 10,
-    "validation_retries": 10,
+    "max_retries": 2,
+    "validation_retries": 2,
 
     "base_port": 10000,
 
